@@ -1,0 +1,18 @@
+shiny::runApp()
+runApp()
+runApp()
+runApp()
+?sidebarLayout
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+library(shiny)
+runGitHub(repo = 'shiny',
+username = 'maxtrinh',
+ref = 'main')
+install.packages(c('shinylive',
+'httpuv'))

@@ -1,0 +1,7 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Loading required package: shiny\n"]
+[2,"\nListening on http://127.0.0.1:6752\n"]
+[2,"Warning: Error in runif: invalid arguments\n"]
+[2,"  174: \u001B[37mrunif\u001B[39m\n  172: \u001B[37mFUN\u001B[39m\n  171: \u001B[37mlapply\u001B[39m\n  170: \u001B[37msapply\u001B[39m\n  169: \u001B[37mreplicate\u001B[39m\n  168: \u001B[34m\u001B[1mrenderPlot [/Users/maxtrinh/Desktop/shiny/clt/app.R#16]\u001B[22m\u001B[39m\n  166: \u001B[37mfunc\u001B[39m\n  126: \u001B[37mdrawPlot\u001B[39m\n  112: \u001B[37m<reactive:plotObj>\u001B[39m\n   96: \u001B[37mdrawReactive\u001B[39m\n   83: \u001B[37mrenderFunc\u001B[39m\n   82: \u001B[37moutput$hist\u001B[39m\n    1: \u001B[37mshiny::runApp\u001B[39m\nWarning: Error in runif: invalid arguments\n"]
+[2,"  174: \u001B[37mrunif\u001B[39m\n  172: \u001B[37mFUN\u001B[39m\n  171: \u001B[37mlapply\u001B[39m\n  170: \u001B[37msapply\u001B[39m\n  169: \u001B[37mreplicate\u001B[39m\n  168: \u001B[34m\u001B[1mrenderPlot [/Users/maxtrinh/Desktop/shiny/clt/app.R#21]\u001B[22m\u001B[39m\n  166: \u001B[37mfunc\u001B[39m\n  126: \u001B[37mdrawPlot\u001B[39m\n  112: \u001B[37m<reactive:plotObj>\u001B[39m\n   96: \u001B[37mdrawReactive\u001B[39m\n   83: \u001B[37mrenderFunc\u001B[39m\n   82: \u001B[37moutput$hist2\u001B[39m\n    1: \u001B[37mshiny::runApp\u001B[39m\n"]
+[1,"\nShiny application successfully stopped.\n\n"]
